@@ -1,0 +1,746 @@
+FINAL TRANSCRIPT 2014-02-19
+Tesla Inc (TSLA US Equity)
+Q4 2013 Earnings Call
+Company Participants
+Deepak Ahuja, CFO
+Elon Musk, Chairman & CEO
+Jeff Evanson, VP, Global IR
+Other Participants
+Adam Jonas, Analyst, Morgan Stanley
+Agidi Sagari, Analyst, FBR Capital Markets
+Andrea James, Analyst, Dougherty & Company
+Ben Kallo, Analyst, Robert W. Baird & Co.
+Brian Johnson, Analyst, Barclays Capital
+Colin Rusch, Analyst, Northland Capital
+Craig Irwin, Analyst, Wedbush Securities
+Dan Galves, Analyst, Deutsche Bank
+Elaine Kwei, Analyst, Jefferies & Co.
+James Albertine, Analyst, Stifel Nicolaus
+John Lovallo, Analyst, BofA Merrill Lynch
+Patrick Archambault, Analyst, Goldman Sachs
+Ryan Brinkman, Analyst, JPMorgan
+Presentation
+Operator
+Good day, ladies and gentlemen. Welcome to the Tesla Motors Fourth Quarter 2013
+financial results Q&A call. At this time, all participants are in a listen-only mode. Later,
+we will conduct a question-and-answer session and instructions will follow at that
+time. I would now like to turn the call over to your host. Jeff Evanson, please go
+ahead.
+Jeff Evanson {BIO 17513488 <GO>}
+Thank you, Patrick. Good afternoon, everyone; and welcome to our Fourth Quarter
+financial results Q&A webcast. I'm joined today by Elon Musk, Tesla's Chairman and
+CEO, and Deepak Ahuja, Tesla's Chief Financial Officer.
+We announced the financial results of our Fourth Quarter and full-year 2013 results
+shortly after the close of trading today. The shareholder letter, financial results and
+Page 1 of 21
+FINAL TRANSCRIPT 2014-02-19
+Tesla Inc (TSLA US Equity)
+webcast of this Q&A session are all available at our Investor Relations website, at
+ir.teslamotors.com. A replay of this webcast will be available at the same site later
+today.
+Please note that certain financial measures that we use on the call, such as revenue
+and income, are expressed on a non-GAAP basis and have been adjusted to exclude
+the effect of lease accounting on Model S sales and charges related to stock option
+compensation. Our GAAP results and reconciliations of non-GAAP to GAAP
+measures can be found in our earnings release.
+During the course of this call, we may discuss our business outlook and make
+forward-looking statements. Such statements are predictions based on
+management's expectations as of today. Actual events or results could differ
+materially due to a number of risks and uncertainties, including those mentioned in
+our most recent SEC filings.
+We'd ask you all to log in now for questions. So please press star-one on your
+phones. And with that, Patrick, let's turn it over to the first question.
+Actually, before we do that, I do want to say, if you could please limit your questions
+to one question and one follow-up, we do want to try to end this call in about 45
+minutes. All right, Patrick, let's have the first question, please.
+Questions And Answers
+Operator
+Our first question comes from Adam Jonas with Morgan Stanley. Your line is open.
+Q - Adam Jonas {BIO 3339456 <GO>}
+All right. Thanks, everybody. Elon, the stock price and results have been obviously
+performing very well lately.
+You've got some great investment opportunities and some growth opportunities
+ahead of you, not only in the auto business, but also in the non-auto business == in
+the battery business. So I'm just wondering how you're thinking about being
+opportunistic and pulling in some fresh capital to help derisk the plan, plan for a
+force majeur, or to see some of these opportunities that you have. Thank you.
+A - Elon Musk {BIO 1954518 <GO>}
+Yes, I think that's a good idea. I would agree with that. I think that would be the smart
+move.
+We can talk more about that next week with -- and also discuss the giga factory
+plans. Unfortunately, I can't say anything right now --
+Page 2 of 21
+FINAL TRANSCRIPT 2014-02-19
+Tesla Inc (TSLA US Equity)
+Q - Adam Jonas {BIO 3339456 <GO>}
+As a follow-up to that --
+A - Elon Musk {BIO 1954518 <GO>}
+-- except that I think your advice is good.
+Q - Adam Jonas {BIO 3339456 <GO>}
+Okay. I don't want to (inaudible) here or anything, but as a follow-up to that, I guess,
+is would a capital raising be a prerequisite to launch the giga factory? Or is that an
+understatement?
+A - Elon Musk {BIO 1954518 <GO>}
+I think it's necessary to have it occur in three years. It's not necessary, if we allow that
+time frame to expand.
+Q - Adam Jonas {BIO 3339456 <GO>}
+That's very clear. Thanks, Elon.
+A - Elon Musk {BIO 1954518 <GO>}
+All right. You're welcome.
+A - Jeff Evanson {BIO 17513488 <GO>}
+Thanks, Adam. Next question.
+Operator
+Next question comes from John Lovallo with Bank of America Merrill Lynch. Your line
+is open.
+Q - John Lovallo {BIO 22386768 <GO>}
+Hello, guys. Thanks very much for taking the call.
+First question would be, Deepak, just on your outlook for free cash flow in 2014 and
+maybe in 2015, given the requisite investment that's going to go into the business.
+How are you guys thinking about that?
+A - Deepak Ahuja {BIO 15935173 <GO>}
+I think in 2014 we certainly expect to generate significant cash flow from operations.
+And our CapEx then which then feeds into free cash flow will depend quite a bit how
+we continue to expand and what opportunities we see globally throughout the rest
+of the year. So it's a bit early for me to call and give you clear guidance for certainly
+Page 3 of 21
+FINAL TRANSCRIPT 2014-02-19
+Tesla Inc (TSLA US Equity)
+2015 and potentially all of 2014, but we certainly see this as really a great year for
+growth, as we look forward.
+Q - John Lovallo {BIO 22386768 <GO>}
+Okay. Thank you. That's very helpful.
+If I could just follow up with you, Deepak, just thinking longer term, what do you
+think is an achievable kind of mid-term or long-term EBIT margin? Taking gross
+margin aside, how are you thinking about just from an operating profit, longer term?
+A - Deepak Ahuja {BIO 15935173 <GO>}
+I think we have in the past, even since the time of our IPO, indicated that our long-
+term target is to get to an operating margin which is in the teens -- low to mid-teens.
+And I think that is still what our long-term goal is, to get there, as we continue to
+grow the business.
+A - Elon Musk {BIO 1954518 <GO>}
+Yes. And we should emphasize that we expect the reinvestment opportunities to be
+very significant for a long time. So our actual profitability will be quite a bit less than
+that.
+Q - John Lovallo {BIO 22386768 <GO>}
+Right.
+A - Elon Musk {BIO 1954518 <GO>}
+But if we were to sort of level out the business at any given point, I think something
+like the mid-teens type of number is very achievable.
+Q - John Lovallo {BIO 22386768 <GO>}
+Exactly.
+A - Deepak Ahuja {BIO 15935173 <GO>}
+And that's how we've always communicated.
+A - Elon Musk {BIO 1954518 <GO>}
+Right. Right.
+Q - John Lovallo {BIO 22386768 <GO>}
+Okay, guys. Thank you.
+A - Elon Musk {BIO 1954518 <GO>}
+Page 4 of 21
+FINAL TRANSCRIPT 2014-02-19
+Tesla Inc (TSLA US Equity)
+I mean, the car business is truly staggeringly big. It's over $2 trillion a year in new car
+sales. That's just new car sales. That's not even taking into account servicing and
+used car sales and accessories and all the other things. So there's just a pretty big
+ramp ahead in terms of reinvestment.
+Q - John Lovallo {BIO 22386768 <GO>}
+Got it. That's helpful. I'm going to try to sneak one more in here. Jeff, I apologize.
+But in terms of distribution licenses in China, from what we understand, they're
+pretty difficult to obtain, particularly without a local partner. How are you guys able
+to deal with this issue?
+A - Elon Musk {BIO 1954518 <GO>}
+Actually, sales and service is not a problem in China. It's more local manufacturing,
+where there's an expectation that you partner with a local entity. And since we're
+really just at the early stages of -- very early stages of selling cars in China, and we're
+very far away from -- very far by Tesla's time frame standards -- away from
+manufacturing in China. But we do expect that in the long term -- at least for the
+short to medium term, there's not a need for a local partner.
+Q - John Lovallo {BIO 22386768 <GO>}
+Okay. Thank you very much, guys.
+A - Jeff Evanson {BIO 17513488 <GO>}
+All right, John. Patrick, let's have the next question, please.
+Operator
+The next question comes from Brian Johnson with Barclays. Your line is open.
+Q - Brian Johnson {BIO 7256455 <GO>}
+Yes. Good afternoon. Just want to look at the line of what you used to call
+reservations and now you call customer deposits, went from 140 to 163, last year 138
+and they've been churning in the 130s.
+Can we infer from that -- should we be inferring a unit order uptake? Or is it more
+mix of the reservations and the currencies and the products that people put down
+there to make orders -- deposits, not reservations -- for?
+A - Elon Musk {BIO 1954518 <GO>}
+I think the biggest thing we can attribute that sort of growth to is that the Model X
+demand is very high. The number of -- obviously, we don't disclose that. But even
+though there's zero marketing for the Model X, essentially, if you were going fishing,
+it's like the fish are jumping in the boat. We're not actually trying to sell the Model X
+Page 5 of 21
+FINAL TRANSCRIPT 2014-02-19
+Tesla Inc (TSLA US Equity)
+at all, but the demand seems to be remarkably high; and we're seeing a steady
+accumulation of Model X deposits.
+A - Deepak Ahuja {BIO 15935173 <GO>}
+Which is on top of our ongoing Model S deposits coming, so that draws the overall
+part.
+A - Elon Musk {BIO 1954518 <GO>}
+Yes.
+Q - Brian Johnson {BIO 7256455 <GO>}
+So if you look at your new guide for 35K units for 2014 and shared the comment a
+fair chunk of that will be in China and Europe. Just where it is, just directionally
+where does the order book stand in those geographies? What's trending better than
+you might have expected, and where do you still need some marketing or education
+work?
+A - Elon Musk {BIO 1954518 <GO>}
+Well I think there's probably work to do in a number of locations in Europe. Mostly
+because we still have to sort out a number of charging issues. Because even though
+the EU is sort of one market economically, it's certainly not one market from an
+electricity standpoint. So we're sorting through a number of charging issues over
+there.
+And I think that's slowing down our (inaudible) in Europe temporarily. But I feel
+confident about addressing those very near-term. And I expect that sales will pick up
+quite a bit over in Europe.
+A - Deepak Ahuja {BIO 15935173 <GO>}
+At the same time, we see very good demand in China and in the emerging (vie) and
+drive markets.
+A - Elon Musk {BIO 1954518 <GO>}
+Yes. Absolutely. Yes, I mean, it's -- based on current trends, it seems unlikely that we'll
+be able to satisfy demand in China this year. So there will be unmet-- likely to be, I
+think, unmet demand in China this year.
+Q - Brian Johnson {BIO 7256455 <GO>}
+Okay. Thanks.
+Operator
+Our next question comes from Ryan Brinkman with JPMorgan. Your line is open.
+Page 6 of 21
+FINAL TRANSCRIPT 2014-02-19
+Tesla Inc (TSLA US Equity)
+Q - Ryan Brinkman {BIO 16417954 <GO>}
+Hello. Thanks for taking my question. Congrats on the quarter.
+A - Elon Musk {BIO 1954518 <GO>}
+Thanks.
+Q - Ryan Brinkman {BIO 16417954 <GO>}
+I see that you're guiding to strong 28% gross margins by 4Q this year. Can you talk
+about some of the drivers of that margin expansion? Is it is more leverage of fixed
+COGS than higher revenue, or is it still the case that you're realizing significant
+supplier purchase price reductions as your volume ramps?
+A - Deepak Ahuja {BIO 15935173 <GO>}
+Yes. It's all of that. We are also continuing to make design improvements for the
+product, which is also helping us. And clearly, as we expand production, our
+suppliers see economies of scale and so do we.
+In addition, there is efficiency, as we continue to stabilize and mature our production
+processes. So all of that, we feel, is a contributor to getting to that gross margin
+improvement.
+A - Elon Musk {BIO 1954518 <GO>}
+It's not a huge difference from 25 to 28, and I think we can arguably achieve that just
+by scaling up. So in fact, the 28 number is assuming that the take rate of options
+decreases slightly. So we're not planning on lowering the price of the car.
+But as we reach the broader market, the option uptake, for example, people
+ordering, say, performance-plus, we expect will decrease. And there will be more
+orders of the more affordable version of the car. So the 28% is assuming a lower
+average price because of lower option take.
+Q - Ryan Brinkman {BIO 16417954 <GO>}
+Great. Thanks. Then just last question in China.
+There's been a lot of talk of government incentives there to spur clean vehicle sales
+to try to improve the air quality. Have you been able to determine whether or not
+Tesla can be eligible for these types of subsidies?
+Then separate to that, I'm just curious what kind of volume assumptions do you have
+in China baked into that 35,000 delivery number? And what do you think China
+could do for you, over time?
+A - Elon Musk {BIO 1954518 <GO>}
+Page 7 of 21
+FINAL TRANSCRIPT 2014-02-19
+Tesla Inc (TSLA US Equity)
+I don't think we want to break out the exact market percentages. And I think it's
+difficult for us to estimate them with precision. Except that it appears that based on
+demand, since we announced pricing in China, that it seems unlikely that we'll be
+able to get everyone a car this year.
+A - Deepak Ahuja {BIO 15935173 <GO>}
+And in terms of the incentives, we are talking to the authorities and we're working to
+see how the Model S can be included. Clearly, the initial round was -- or the
+expectation was this only applies to local manufacturers. But that is something we're
+working to include Model S in that list.
+Q - Ryan Brinkman {BIO 16417954 <GO>}
+Okay. Great. Thanks. Congrats again on the quarter.
+Operator
+Our next question comes from Andrea James with Dougherty and Company. Your
+line is open.
+Q - Andrea James {BIO 6843557 <GO>}
+Thanks for taking my two questions. Regarding the giga factory, are you guys
+prepared to say you've secured a partner yet? And can you give us a sense of what
+you mean by "major reduction" intact costs?
+A - Elon Musk {BIO 1954518 <GO>}
+Well we actually expect there to be more than one partner in the factory. Obviously,
+Panasonic is currently our primary partner on cell production. And so a default
+assumption would be that Panasonic would continue to partner with us in the giga
+factory.
+But there are also likely to be other suppliers in the factory that provide the
+precursor materials to the cell. So the anode and cathode materials, separator,
+electrolyte, that kind of thing. But I don't want talk too much about the giga factory,
+because we're going to talk about that next week and there's a lot of stuff to talk
+about, besides that, in this earnings release. Yes, so I think that we'll have to just to
+punt that answer and detail to next week.
+Q - Andrea James {BIO 6843557 <GO>}
+Okay. Fair enough. Then the next question, obviously, customer deposits are up 16%,
+so demand looks good. But I think it would be helpful if you could address the effect
+on demand that was caused by the vehicle fires last fall and the subsequent media
+firestorm regarding all that.
+Then, is it measurable? What did you see?
+Page 8 of 21
+FINAL TRANSCRIPT 2014-02-19
+Tesla Inc (TSLA US Equity)
+A - Elon Musk {BIO 1954518 <GO>}
+Yes. So at first, we saw a significant drop in demand. And we were quite worried
+about it.
+Then, as consumers came to understand that this was really kind of a media-driven
+thing and not a real danger with the car, our sales improved steadily since then. And
+have continued to improve since that initial news. Basically, consumers have come to
+understand that actually our car has a far lower propensity for fire than a gasoline
+car, and by reason of a half order of magnitude.
+And so, yes, as consumers became aware of that, their fears have subsided. I think
+it's great that we live in an era where there's the internet and social media. So that
+when something is -- when the fans are flamed, literally, by the media, there is at
+least a path for consumers to understand what is really going on. I think in the
+absence of social media, I'm not sure we would have been able to correct the
+misperception.
+Q - Andrea James {BIO 6843557 <GO>}
+Do you need the NHTSA report then to come out then, or do you think it will have no
+effect when it does? I'm assuming it will clear the car completely.
+A - Elon Musk {BIO 1954518 <GO>}
+We anticipate a positive result. And I think it will certainly help some number of
+people out there.
+And it's worth noting that we've been cleared by the regulatory agencies in every
+other country, so Germany, Britain, Japan, China, everyone else. So it's actually just
+the US regulatory authorities are the lone holdout, at this point. But we've provided
+NHTSA with all the information that they've requested, and we're awaiting a decision
+from them, which hopefully would come soon. And yes, probably helpful to some
+number of consumers out there.
+Q - Andrea James {BIO 6843557 <GO>}
+Thank you, so much.
+Operator
+Our next question comes from Elaine Kwei with Jefferies. Your line is open.
+Q - Elaine Kwei {BIO 16515027 <GO>}
+Yes, hello. Thanks for taking my question.
+First, on the production guidance for ending the year at 1,000-car-a-week rate. That
+sounds like it's two lines going full-time at roughly a 20,000-a-year type of rate, and
+Page 9 of 21
+FINAL TRANSCRIPT 2014-02-19
+Tesla Inc (TSLA US Equity)
+a pretty good step-up from, I think, some of the previous guidance. Could you help
+shed some light on what's getting you there? And is that pretty much where you'd
+be maxing out?
+A - Elon Musk {BIO 1954518 <GO>}
+So we are constructing a new line in the factory. So it's a little -- the full answer is a
+little complex, because there are many pieces that go into making a Model S, some
+of which are production constrained and some of which are not. So to get to the sort
+of height, the sort of 1,000-plus production rate, we do need a sort of a new final
+assembly line, which we're in the process of constructing. Then we'll transition the
+final assembly to that, hopefully around the end of the Third Quarter, or thereabouts.
+Then there's sort of separately a body construction line, which is where you create
+the body and welded assembly, welded and bonded assembly, that's also taking
+place. That's not needed to achieve the production rate, but will help with
+production efficiency. And will also be where the Model X is built. It will be a sort of a
+next-generation body assembly facility for the X, and then the S. So I'm not sure -- it's
+quite -- it would be quite a long answer to give you the full story, but that's -- maybe
+those are the highlights.
+Q - Elaine Kwei {BIO 16515027 <GO>}
+Sure. That's really helpful.
+And with that 1,000-a-week with the new final assembly line, is that, with that I
+assume that's not with that maxed out? And that's sort of using part of the capacity,
+and then there would be additional capacity beyond that, once the construction is
+completed. Would that be fair to assume?
+A - Elon Musk {BIO 1954518 <GO>}
+It's fair to assume that we would be able to go to higher numbers, if the demand is
+there to -- yes, yes.
+Q - Elaine Kwei {BIO 16515027 <GO>}
+Okay. Thank you very much, Elon.
+A - Elon Musk {BIO 1954518 <GO>}
+All right.
+Operator
+Our next question comes from Ben Kallo with Robert Baird. Your line is open.
+Q - Ben Kallo {BIO 16897436 <GO>}
+Hello, Elon. Hello, Deepak. Hello, Jeff.
+Page 10 of 21
+FINAL TRANSCRIPT 2014-02-19
+Tesla Inc (TSLA US Equity)
+Just building on Elaine's question, you said if demand's there, can you just talk about
+the evolution of what you see in demand if you look back a year ago and where you
+think it could be two years from now, in 2016, just for the S? Then if you could loop
+that in with your production expansion and where that could get you with the two
+different factors that you mentioned to answer Elaine 's question?
+A - Elon Musk {BIO 1954518 <GO>}
+It's difficult to predict where the demand really settles out with the S. But I can say, in
+relative terms, it appears that the X will see at least as much demand as the S. And if I
+was to guess -- I mean, it's just a guess -- I think the X demand may exceed the S
+demand.
+This is very speculative. Don't hold me to it. But that's my best guess. I think X
+demand will exceed S demand.
+And as far as S demand, of course, there are a lot of factors here, because it's not just
+demand for the S, but let's say the world were to go into a recession in 2016. It's
+difficult to say what the gas demand, how would we be affected and that kind of
+thing. So then you start to encounter macro factors.
+But it seems like -- it seems pretty likely that we could sustain demand of around
+1,000 units a week. That's my best guess for the S.
+Q - Ben Kallo {BIO 16897436 <GO>}
+Okay. Great. And I'm going to ask on the giga factory, try my best here.
+You talked about partners, really supply partners. Should we expect also, I guess
+people that would use the cells, so customer off-takes or partners in that aspect of
+people that would use lithium ion batteries, in the announcement?
+A - Elon Musk {BIO 1954518 <GO>}
+Yes. It's tempting to get into the giga factory stuff. But I could have the whole call
+talking about that, and we're going to have more of a dedicated call next week to
+talk about it. But I think that the giga factory would absorb all of the sales produced
+and that we would probably even need to bring in cells from other factories from
+around the world.
+Q - Ben Kallo {BIO 16897436 <GO>}
+Okay. Fair enough. Then, just housekeeping for Deepak.
+Q1, as we flex it, we're right on the verge of profitability. How should we think about
+that and your guys' goal for Q1?
+A - Deepak Ahuja {BIO 15935173 <GO>}
+Sorry, could you clarify that further?
+Page 11 of 21
+FINAL TRANSCRIPT 2014-02-19
+Tesla Inc (TSLA US Equity)
+Q - Ben Kallo {BIO 16897436 <GO>}
+If I flex the numbers in Q1 and what you said operating expenses and then your
+deliveries, I can be on the verge of being profitable or not profitable. So how are you
+guys leaning in that aspect as we model Q1?
+A - Deepak Ahuja {BIO 15935173 <GO>}
+I see. We definitely should be profitable on a non-GAAP basis, even in Q1.
+Q - Ben Kallo {BIO 16897436 <GO>}
+Great. Thank you very much, guys. Great quarter.
+A - Elon Musk {BIO 1954518 <GO>}
+I do want to emphasize something that, it would be -- we could have tried to aim for
+a higher delivery number in Q1. If we were to kind of gain deliveries and not try to
+sort of be a bit of a contortionist and enter the vehicles in transit. But I made a
+decision that we shouldn't try to do that, and we should just try to produce cars in
+the right way for the various markets.
+And so our actual revenue number for Q1 is going to be less than it would be if we
+did try to play all sorts of games with delivery, delivery between domestic and
+international markets. So I think that it's the right decision for the long term, but it
+means that our Q1 actual recognized revenue will be lower than it might otherwise
+be.
+A - Jeff Evanson {BIO 17513488 <GO>}
+Patrick, we're ready for the next question.
+Operator
+The next question comes from Dan Galves with Deutsche Bank. Your line is open.
+Q - Dan Galves {BIO 16540648 <GO>}
+Good afternoon. Thanks for taking my questions.
+Just thinking about your comment on 1,000 per week Model S's, and putting that
+together with your comment that Europe and Asia could be about double the US
+deliveries by Q4 this year. I guess if you think about 12,000 units like something
+approximately for Q4, four, four and four between the three markets, is that where
+you're seeing US demand now? Is that where you think it will settle out? Or is that
+basically trying to kind of balance getting vehicles to each region?
+A - Elon Musk {BIO 1954518 <GO>}
+Page 12 of 21
+FINAL TRANSCRIPT 2014-02-19
+Tesla Inc (TSLA US Equity)
+Yes, I sort of answered this question earlier. It's very difficult to predict with precision
+the exact division of sales.
+Actually, the best fidelity that we can forecast right now is really that we think non-
+North American sales will be about twice the size of American sales, roughly
+speaking. This is not to say it will be exactly twice the size, but it's roughly. And -- yes
+-- yes.
+Q - Dan Galves {BIO 16540648 <GO>}
+Okay.
+A - Elon Musk {BIO 1954518 <GO>}
+And I mean, something we try to do is to try to balance customer wait times.
+Because, for example, like last quarter, we actually did quite a few European
+deliveries, because customers in Europe had been waiting for a really long time to
+receive their car. And so we just had to balance that with slowing down US deliveries
+and try to make people as happy as possible, given the production constraints.
+Q - Dan Galves {BIO 16540648 <GO>}
+I imagine that's a difficult task. The second question is related to China charging.
+What's your view on -- in the US, most people are just charging at their home.
+Is that a viable option, based on where Chinese consumers are living? What is an
+option for a Chinese consumer that may live in an apartment building, and how
+much work have you guys done on that?
+A - Elon Musk {BIO 1954518 <GO>}
+We're working pretty hard on that and we believe we've got some good solutions.
+We're going to talk more about that in the coming months.
+Q - Dan Galves {BIO 16540648 <GO>}
+Okay. Thank you.
+A - Elon Musk {BIO 1954518 <GO>}
+We're going to make sure that that's not a limitation.
+Q - Dan Galves {BIO 16540648 <GO>}
+Okay. Great. Thank you.
+Operator
+Our next question comes from Patrick Archambault with Goldman Sachs. Your line is
+open.
+Page 13 of 21
+FINAL TRANSCRIPT 2014-02-19
+Tesla Inc (TSLA US Equity)
+Q - Patrick Archambault {BIO 4638109 <GO>}
+Great. Thank you. Just a couple from me, maybe starting with OpEx.
+Deepak, you said that OpEx is, I believe, up 15% Q1, and I think increasing thereafter,
+based on the investments. And can we put some parameters around that? Is there
+still, as we think about, operating profit, is there still some leverage, some ability to
+leverage OpEx? Or is investment costs next year really kind of offsetting this -- this
+fixed cost component for now?
+A - Deepak Ahuja {BIO 15935173 <GO>}
+We're very mindful of OpEx. We continue with our culture of being frugal, but
+investing where it makes sense for the business. So I think it's a bit early or
+premature for me to give you sort of longer-term guidance beyond Q1. But our
+approach really is to be focused in the most cost efficient manner to achieve our
+growth.
+And also trying, over time, bring our percentage -- our OpEx percentage of revenue
+down and contribute to the bottom line. So I think that's the longer-term trend that
+you will continue to see.
+Q - Patrick Archambault {BIO 4638109 <GO>}
+Okay. Just, I guess, one quick housekeeping one for me. I don't know if I missed it,
+but did you give the US/international split on the 6,829 Fourth Quarter and 22,000
+and change for the full year, in terms of deliveries?
+A - Deepak Ahuja {BIO 15935173 <GO>}
+No. We didn't provide that. We haven't done that in the past. And we have -- for
+Europe, more than -- I think -- I would just put it this way, most of the growth that
+came in Q4 is from Europe, though US and North America continued at the same
+pace as Q3. I think that's the more relevant information.
+A - Elon Musk {BIO 1954518 <GO>}
+Q3 to Q4, US deliveries were very similar, but the increment went to Europe.
+Q - Patrick Archambault {BIO 4638109 <GO>}
+Can I squeeze one last one in? It sounds like your expectations for the X are perhaps
+higher than many of us had thought. How can we, from a profitability standpoint,
+how can we think about the accretion of that platform?
+It sounds like the volume's going to be pretty high. You're leveraging infrastructure
+that's in already. Presumably, there's things you've learned in the manufacturing
+process of the S that you can apply, and that your suppliers have learned, as well. So
+how should we think about that as kind of a tailwind or impact on the overall mix?
+Page 14 of 21
+FINAL TRANSCRIPT 2014-02-19
+Tesla Inc (TSLA US Equity)
+A - Elon Musk {BIO 1954518 <GO>}
+I'm not sure I totally understand the question, but --
+Q - Patrick Archambault {BIO 4638109 <GO>}
+I can rephrase it. It's just that you're launching a new vehicle having garnered
+considerable efficiencies and learnings through the process of the S. And
+presumably also, your suppliers have done, as well. So in addition to just the
+leverage, is there kind of a margin tailwind that you can expect just from launching
+the X and having applied all the stuff that you've learned in the process of
+developing the S?
+A - Elon Musk {BIO 1954518 <GO>}
+Okay. So basically, do we expect gross margins to be higher with the X, and maybe
+flowing back into the S, as well?
+Q - Patrick Archambault {BIO 4638109 <GO>}
+Yes. That would be -- and I'm not talking about just on a fixed cost. I'm talking more
+on a variable cost basis, actually.
+A - Elon Musk {BIO 1954518 <GO>}
+Right. You know, there could be. Although, as I said, we do expect the option take
+rate to reduce, so that's why we're being, we're saying 28% gross margin. But if the
+option take rate doesn't reduce, obviously it will be higher than that.
+Q - Patrick Archambault {BIO 4638109 <GO>}
+Okay. Then what about, like I know we're looking out to 2015 for when the X is going
+to be -- well, in launch mode and have some volume on it. But from -- is there some
+kind of mix tail wind to be garnered just from the launch of that product, just
+applying, again, all of the efficiencies that you've learned and supply relationships.
+And all those benefits that you've accrued through the launch process of the S?
+A - Elon Musk {BIO 1954518 <GO>}
+I'm sure there will be efficiencies, yes. We don't want top predict something better
+than a 28% gross margin, but I think there probably will be efficiencies. It seems
+likely.
+A - Jeff Evanson {BIO 17513488 <GO>}
+All right. Pat, we've got to get on to the next question, please.
+Operator
+Our next question comes from Colin Rusch with Northland Capital. Your line is open.
+Page 15 of 21
+FINAL TRANSCRIPT 2014-02-19
+Tesla Inc (TSLA US Equity)
+Q - Colin Rusch {BIO 15823117 <GO>}
+Thanks so much. Can you guys give us an update on the tack time that you're seeing
+right now, and the transition towards running two full shifts? How do you see that
+playing out, just in terms of hiring and how many people are you going to have to
+add to do that?
+A - Deepak Ahuja {BIO 15935173 <GO>}
+Colin, so just to clarify, we are running a two-shift operation in one of our factories.
+And again, the factory is very complex, as Elon said, in different shops, run under
+different operating patterns, and there is no single tack time, per se, that we can
+share with you. Our focus is just to continue to improve efficiencies.
+Then, through the significant ramp-up in the second half will come, as Elon
+indicated, with the move to the new final assembly line and the body construction
+line. So I think there are broader factors which help us get there. And tell me if I'm
+answering your question satisfactorily?
+A - Elon Musk {BIO 1954518 <GO>}
+And you would need to add a ton of people to achieve the 1,000 car per week rate?
+Is that what you're asking?
+Q - Colin Rusch {BIO 15823117 <GO>}
+No. More what I'm thinking about is standardization and the leverage that you guys
+are going to get off of the process improvement. It seems like you've done an awful
+lot of prep work, in terms of setting a foundation for the process. and then are
+making ongoing improvements to that and then potentially locking in processes that
+then just basically speed up, and you're going to get more leverage out of that. So
+that's what I'm trying to get after.
+A - Elon Musk {BIO 1954518 <GO>}
+Yes, I think we'll be able to ramp our production rate quite a bit with a fairly small
+increase in hiring. So yes. Our labor efficiency, essentially, is likely to improve a lot
+over the course of this year.
+Q - Colin Rusch {BIO 15823117 <GO>}
+Okay. Great. I can take some of that off-line.
+Can you just give us a bit of an update on the trend line for shipments into North
+America from 3Q into 4Q and your expectation into the First Quarter?
+A - Deepak Ahuja {BIO 15935173 <GO>}
+Yes, I think as going from Q4 to Q1 -- sorry, or is it from Q3 to Q4? Could you clarify
+that?
+Page 16 of 21
+FINAL TRANSCRIPT 2014-02-19
+Tesla Inc (TSLA US Equity)
+Q - Colin Rusch {BIO 15823117 <GO>}
+I'll have both, if you don't mind.
+A - Deepak Ahuja {BIO 15935173 <GO>}
+I think Q4 to Q1, as we indicated in the shareholder letter, and as Elon mentioned, we
+are ramping up even further into Europe and China. And we could have played
+games and tried to shift the mix and delivered more cars in the US to hit a higher
+delivery number in Q1. but we decided to smoothen the flow of cars in our
+operational issues. And that's why you see the small reduction in Q1 deliveries and
+the mix shift little bit more into Europe and Asia and from a production point of view.
+A - Elon Musk {BIO 1954518 <GO>}
+I wouldn't try to read too much into it, essentially.
+Q - Colin Rusch {BIO 15823117 <GO>}
+Great. Appreciate it.
+Operator
+Our next question comes from (Agidi Sagari) with FBR Capital. Your line is open.
+Q - Agidi Sagari
+Thank you. My first question is on China.
+So currently, China is pretty unique, first of its kind. Do you expect any kind of
+competitive response in the market, and maybe if you could elaborate on how that
+pricing is translating into demand for the vehicle?
+A - Elon Musk {BIO 1954518 <GO>}
+Well I mean, hopefully other manufacturers will adjust their pricing to not exploit
+Chinese consumers. I think that's the right thing for them to do, and it's what they
+ought to have been doing from the beginning. I don't know that they will do that,
+but that's what they probably should do.
+And we are seeing really strong demand, which hopefully will continue. But it's been
+very strong since we announced pricing. And I think our bigger challenge will be
+trying to satisfy that demand.
+Q - Agidi Sagari
+Got it. My second question was on the Model X. So if we think about the Model X
+coming out with an improved power train, more capabilities, should we expect some
+of those improvements to be translated into the Model S also, when that gets
+launched?
+Page 17 of 21
+FINAL TRANSCRIPT 2014-02-19
+Tesla Inc (TSLA US Equity)
+A - Elon Musk {BIO 1954518 <GO>}
+Actually, I'd rather not comment too much on future Model S changes, except to say
+that obviously, we add features to the vehicle all the time. With every month, there's
+something that's been added or improved. It's sort of a continuously improved
+vehicle.
+Q - Agidi Sagari
+All right. Thank you. That's all I had.
+A - Jeff Evanson {BIO 17513488 <GO>}
+Thanks.
+Operator
+The next question comes from James Albertine with Stifel. Your line is open.
+Q - James Albertine {BIO 17420845 <GO>}
+Thanks for taking the question and good afternoon, everyone. Just wanted to get a
+sense for -- really, a clarification first -- on the commentary you made with respect to
+the construction you're undertaking at the facility in California. Will any of that
+construction be leverageable for the third generation car, or is this primarily
+dedicated to the X and S, at this point?
+A - Elon Musk {BIO 1954518 <GO>}
+It's dedicated to the S and X. So the third generation vehicle -- certainly, we'll learn
+from those lines, but third generation vehicle will have a completely separate
+production process.
+Q - James Albertine {BIO 17420845 <GO>}
+Okay. Thank you for that.
+A - Elon Musk {BIO 1954518 <GO>}
+It's geared to a higher volume -- so, yes.
+A - Deepak Ahuja {BIO 15935173 <GO>}
+And the Fremont factory is big enough to accommodate --
+A - Elon Musk {BIO 1954518 <GO>}
+Absolutely. I should mention that we do anticipate being able to do the third
+generation vehicle production in that Fremont facility. When it was owned by Toyota
+and General Motors, it was able to produce half a million vehicles a year. And I feel
+like we could get there with our vehicles, as well.
+Page 18 of 21
+FINAL TRANSCRIPT 2014-02-19
+Tesla Inc (TSLA US Equity)
+Q - James Albertine {BIO 17420845 <GO>}
+Understood. Then sort of a related question or follow-up.
+Over the course of the next three years, you've alluded to -- and I guess we'll hear
+next week more about the giga factory. Obviously, that overlaps with what we had
+understood the expectation for the third generation timeline. Is it fair to say there's
+been a shift, or a reprioritization, above and beyond the third generation car that's,
+again, more focused on the importance and relevance of the giga factory and its
+contribution?
+A - Elon Musk {BIO 1954518 <GO>}
+The giga factory is really there to support the volume of the third generation car. And
+yes, that's really -- so it's happening in parallel with development of the third
+generation car. And we want to have the vehicle engineering and tooling come to
+fruition at the same time as the giga factory. And yes, so it's all really part of one
+strategy, one combined effort.
+Q - James Albertine {BIO 17420845 <GO>}
+So there's no movement, in other words, on the expectation for a 2017 launch on that
+third generation?
+A - Elon Musk {BIO 1954518 <GO>}
+No.
+Q - James Albertine {BIO 17420845 <GO>}
+Okay. Appreciate it. Thanks for taking the question. Good luck.
+A - Elon Musk {BIO 1954518 <GO>}
+All right. Thanks.
+Operator
+Our next question comes from Craig Irwin with Wedbush Securities. Your line is
+open.
+Q - Craig Irwin {BIO 6209023 <GO>}
+Most of the things that I wanted to ask have already been pretty thoroughly raked
+through. But maybe, Elon, if you could clarify for us what you said, I think on the last
+call, where you discussed a preference for battery manufacturing technology with a
+significantly lower environmental footprint than what's conventionally used today.
+Are you possibly referring to maybe some of the solvent-free manufacturing
+approaches, or are you referring to some of the more advanced recovery systems?
+Maybe could you clarify for us little bit what you're referring to and what you prefer,
+as far as technology approach?
+Page 19 of 21
+FINAL TRANSCRIPT 2014-02-19
+Tesla Inc (TSLA US Equity)
+A - Elon Musk {BIO 1954518 <GO>}
+Sure. First of all, I don't think it's the case that current lithium ion production is
+particularly bad, environmentally. But I think if you visit, say, the Panasonic cell
+factories in Japan, they're super-clean, and they don't have terrible emissions or
+waste or anything like that.
+But I think we can also take it a step further with the giga factory and have a plant
+that is heavily powered by renewables, wind and solar. And that has built into it the
+recycling capability for all battery packs. So you can really look at the whole life cycle
+of the battery pack and be in the best possible situation, from an environmental
+standpoint.
+And I should point out, also, though, that lithium ion battery packs are recycled
+today. There's a recycling facility in Vancouver and one in Belgium, for US and
+Europe. And they have quite a bit of value.
+So it's not as though they are sent to a landfill, even as it is. But with the giga, factory
+we'd like to combine the whole thing. Yes.
+Q - Craig Irwin {BIO 6209023 <GO>}
+Okay. Then one other clarification.
+So your ASPs have been trending positive the last couple of quarters. You seem to
+be conservative about the progression in 2014. Do you expect the sequential
+increases in the ASPs to continue for the next couple quarters and then abate? Or
+when you look at your current order book, are you seeing a flattening out of the
+curve already?
+A - Elon Musk {BIO 1954518 <GO>}
+It's definitely flattening out, in terms of the purchase price. Flattening out to, I'd say
+maybe slightly reducing, but I mean it's -- I mean it's within like a cent or two.
+But we do -- I mean, I do think -- it seems like the prudent thing is to assume that
+there's a reduction in the option take rate as we get to more of a mainstream market
+and fewer people take the high-performance options on the car, which generate
+quite a bit of margin. So we're just trying to be conservative on this front, and maybe
+that -- maybe the average selling price doesn't decline, but we want to protect for a
+scenario where it does.
+A - Jeff Evanson {BIO 17513488 <GO>}
+Okay. Thank you very much, everyone, for joining us this afternoon. We look forward
+to seeing many of you in early March at the Barclays BNP Paribas Auto Conference in
+Geneva or on any of our upcoming investor events. Have a great day.
+Page 20 of 21
+FINAL TRANSCRIPT 2014-02-19
+Tesla Inc (TSLA US Equity)
+A - Deepak Ahuja {BIO 15935173 <GO>}
+Thank you.
+Operator
+Ladies and gentlemen, thank you for participating in today's program. This
+concludes the program. You may all disconnect.
+This transcript may not be 100 percent accurate and may contain misspellings and
+other inaccuracies. This transcript is provided "as is", without express or implied
+warranties of any kind. Bloomberg retains all rights to this transcript and provides it
+solely for your personal, non-commercial use. Bloomberg, its suppliers and third-
+party agents shall have no liability for errors in this transcript or for lost profits, losses,
+or direct, indirect, incidental, consequential, special or punitive damages in
+connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of
+the purchase or sale of securities or commodities. Any opinion expressed in the
+transcript does not necessarily reflect the views of Bloomberg LP. © COPYRIGHT
+2024, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or
+retransmission is expressly prohibited.
+Page 21 of 21
